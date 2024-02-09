@@ -1,0 +1,58 @@
+
+img{
+    height:70px;
+    width:70px;
+    float:left;
+}
+section{
+    flex-basis: 50%;
+    }
+h1 {
+    color: #fff;
+    font-size: 90px;
+    margin-left:50px;
+    }
+.premaire{
+    background: url(UpscaleImage_1_20240209.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+.paragrap{
+    color:#fff;
+    margin:30px 50px;
+    font-size:large;
+}
+nav ul li{
+    display: inline-block;
+    font-size: 15px;
+    padding: 20px;
+    margin-rigth:100px;
+    list-style:none;
+}
+nav ul li a{
+    text-decoration:none;
+    color:#fff;
+    margin-rigth:100px;
+}
+nav ul li a:hover{
+    font-size: 20px;
+    color:red;
+}
+#bb{
+    position:absolute;
+    right:100px;
+    top:10px;
+}
+#last1{
+    position:relative;
+    margin-left:50px;
+}
+button a{
+    color:#fff;
+    text-decoration:none;
+}
+button a:hover{
+    font-size:18px;
+    color:#fff;
+    text-decoration:none;
+}
